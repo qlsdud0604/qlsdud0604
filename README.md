@@ -4,7 +4,7 @@
   <h3>:running: Me :running:</h3>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xx@gmail.com)](mailto:qlsdud960604@gamil.com)
-  <a href="https://qlsdud0604.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
+  <a href="https://qlsdud0604.tistory.com/"><img src="https://img.shields.io/badge/Tistory-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
   
   <br>
   
