@@ -1,6 +1,6 @@
 <div align=center><h2>👋 임빈영입니다.</h2></div>
 
-<div align="center">
+<!-- <div align="center">
   <h3>:running: Me :running:</h3>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xx@gmail.com)](mailto:qlsdud960604@gamil.com)
@@ -33,4 +33,4 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-</div>
+</div> -->
